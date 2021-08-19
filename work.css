@@ -518,7 +518,7 @@ p.paragraph {
 
   .limit
 {
-  width:130px;
+  width:100px;
   word-wrap: break-word;
   word-break: normal;
 }
