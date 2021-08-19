@@ -500,9 +500,9 @@ p.paragraph {
   }
   h1 {
     font-size: 2.2rem;
-    top: 10%;
-        right: 10%;
-        max-width: 80%;
+    top: 20%;
+        right: 5%;
+        max-width: 100px;
         
   }
   h1 + p {
