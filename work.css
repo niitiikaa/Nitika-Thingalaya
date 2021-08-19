@@ -500,9 +500,8 @@ p.paragraph {
   }
   h1 {
     font-size: 2.2rem;
-    -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+    top: 10%;
+        right: 10%;
         max-width: 80%;
         
   }
